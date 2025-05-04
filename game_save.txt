@@ -1,0 +1,8 @@
+# Stronghold Game Save - 2025-04-17 01:17:33
+[POPULATION]
+100
+[ARMY]
+[ECONOMY]
+1005
+[RESOURCES]
+[BANK]
