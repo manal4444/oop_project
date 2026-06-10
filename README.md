@@ -48,4 +48,4 @@ g++ -o stronghold main.cpp army.cpp bank.cpp economicsystem.cpp eventmanager.cpp
 ## 👩‍💻 Author
 **Manal Shahnawaz** — BS Software Engineering, FAST-NUCES 
 📧 manalshahnawaz1@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/manal-shahnawaz-)
+🔗 [LinkedIn](https://linkedin.com/in/manal-shahnawaz-2176193b3)
